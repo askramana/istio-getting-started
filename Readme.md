@@ -43,7 +43,7 @@ Obviously option 1 is a roller coaster. And certainly has below disadvantages
 
 Istio works on the concept of side-car.
 
-<img align="right" width="250" height="90" src="./resources/sidecar.jpg">
+<img align="right" width="280" height="140" src="./resources/sidecar.jpg">
 
 - Bike is your functional service, focused merely on business needs.
 - Sidecar is Istio-proxy, managing all network concerns.
